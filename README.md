@@ -8,5 +8,5 @@ The contribution of this work can be summarized as below:
 - Adjustment of the segmentations to filter the background information for better supervision.
 
 The visualization of our demo (compared with the state-of-the-art methods):
-!()[figs/vis.jpg]
+![](/figs/vis.jpg)
 
