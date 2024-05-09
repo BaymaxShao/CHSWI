@@ -1,2 +1,2 @@
 # CHSWI
-3D Clothed Human Model Reconstruction Based on Single-view In-the-wild Image Data
+3D **C**lothed **H**uman Model Reconstruction Based on **S**ingle-view In-the-**W**ild **I**mage Data
